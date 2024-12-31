@@ -57,6 +57,8 @@ h3 {
   letter-spacing: 0.3px;
   text-align: center;
   margin-top: 10px;
+  /* font-weight: 700; */
+  font-size: 1.2rem;
 }
 
 p {
@@ -67,9 +69,6 @@ p {
 
 
 @media only screen and (max-width: 375px){
-    body{
-        background-color: red;
-    }
 
     .container{
         height: 420px;
