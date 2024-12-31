@@ -63,8 +63,9 @@ h3 {
 
 p {
   color: var(--secondary-color);
-  margin-top: 10px;
+  margin-top: 12px;
   text-align: center;
+  letter-spacing: 0.2;
 }
 
 
